@@ -1,7 +1,6 @@
 # Neuroergo_resources
 references and useful links from my Talk at the Neuroergonomics conference 2024
 
-```markdown
 # References
 
 - Allison, B. Z., and Polich, J. (2008). Workload assessment of computer gaming using a single-stimulus event-related potential paradigm. *Biological Psychology, 77*, 277–283. doi: [10.1016/j.biopsycho.2007.10.014](https://doi.org/10.1016/j.biopsycho.2007.10.014)
@@ -57,5 +56,3 @@ references and useful links from my Talk at the Neuroergonomics conference 2024
 - Ullsperger, P., Freude, G., and Erdmann, U. (2001). Auditory probe sensitivity to mental workload changes - an event-related potential study. *Int J Psychophysiol, 40*, 201–209. doi: [10.1016/s0167-8760(00)00188-4](https://doi.org/10.1016/s0167-8760(00)00188-4)
 
 - White, J., and Power, S. D. (2023). k-Fold Cross-Validation Can Significantly Over-Estimate True Classification Accuracy in Common EEG-Based Passive BCI Experimental Designs: An Empirical Investigation. *Sensors, 23*, 6077. doi: [10.3390/s23136077](https://doi.org/10.3390/s23136077)
-```
-

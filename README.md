@@ -56,3 +56,28 @@ references and useful links from my Talk at the Neuroergonomics conference 2024
 - Ullsperger, P., Freude, G., and Erdmann, U. (2001). Auditory probe sensitivity to mental workload changes - an event-related potential study. *Int J Psychophysiol, 40*, 201–209. doi: [10.1016/s0167-8760(00)00188-4](https://doi.org/10.1016/s0167-8760(00)00188-4)
 
 - White, J., and Power, S. D. (2023). k-Fold Cross-Validation Can Significantly Over-Estimate True Classification Accuracy in Common EEG-Based Passive BCI Experimental Designs: An Empirical Investigation. *Sensors, 23*, 6077. doi: [10.3390/s23136077](https://doi.org/10.3390/s23136077)
+
+
+
+# Other Useful Links
+
+- **n-back made with PsychoPy**: Peirce, J., et al. (2019). PsychoPy2: Experiments in behavior made easy. *Behavior Research Methods, 51*(1), 195–203. doi: [10.3758/s13428-018-01193-y](https://doi.org/10.3758/s13428-018-01193-y)
+
+- **Modern version of the MATB**: Cegarra, J., et al. (2020). OpenMATB: A Multi-Attribute Task Battery promoting task customization, software extensibility and experiment replicability. *Behavior Research Methods, 52*(5), 1980–1990. doi: [10.3758/s13428-020-01364-w](https://doi.org/10.3758/s13428-020-01364-w)
+
+- **Recorded data with LabStreamingLayer**: [LabStreamingLayer GitHub Repository](https://github.com/sccn/labstreaminglayer)
+
+- **Classification done with Scikit-learn**: Pedregosa, F., et al. (2018). Scikit-learn: Machine Learning in Python (arXiv:1201.0490). *arXiv*. doi: [10.48550/arXiv.1201.0490](https://doi.org/10.48550/arXiv.1201.0490)
+
+- **Significance tests done with Linear-mixed models**: Bates, D., et al. (2015). “Fitting Linear Mixed-Effects Models Using lme4.” *Journal of Statistical Software, 67*(1), 1–48. doi: [10.18637/jss.v067.i01](https://doi.org/10.18637/jss.v067.i01)
+
+- **EEG preprocessing done with EEGLAB**: Delorme, A., & Makeig, S. (2004). EEGLAB: An open source toolbox for analysis of single-trial EEG dynamics including independent component analysis. *Journal of Neuroscience Methods, 134*(1), 9–21. doi: [10.1016/j.jneumeth.2003.10.009](https://doi.org/10.1016/j.jneumeth.2003.10.009)
+
+- **FBCSP**: Ang, K. K., et al. (2012). Filter Bank Common Spatial Pattern Algorithm on BCI Competition IV Datasets 2a and 2b. *Frontiers in Neuroscience, 6*. doi: [10.3389/fnins.2012.00039](https://www.frontiersin.org/articles/10.3389/fnins.2012.00039)
+
+- **Helpful CSP tutorial**: Cohen, M. X. (2022). A tutorial on generalized eigendecomposition for denoising, contrast enhancement, and dimension reduction in multichannel electrophysiology. *NeuroImage, 247*, 118809. doi: [10.1016/j.neuroimage.2021.118809](https://doi.org/10.1016/j.neuroimage.2021.118809)
+
+- **Task-irrelevant probes**: Sugimoto, F., et al. (2022). Investigation of the optimal time interval between task-irrelevant auditory probes for evaluating mental workload in the shortest possible time. *International Journal of Psychophysiology, 177*, 103–110. doi: [10.1016/j.ijpsycho.2022.04.013](https://doi.org/10.1016/j.ijpsycho.2022.04.013)
+
+- **Cleaning EMG?**: Pope, K. J., et al. (2022). Managing electromyogram contamination in scalp recordings: An approach identifying reliable beta and gamma EEG features of psychoses or other disorders. *Brain and Behavior, 12*(9), e2721. doi: [10.1002/brb3.2721](https://doi.org/10.1002/brb3.2721)
+
